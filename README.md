@@ -1,16 +1,12 @@
-# profanity_detector
+# NSFW Filter
 
-A new Flutter project.
+---
 
-## Getting Started
+## Showcase
 
-This project is a starting point for a Flutter application.
+<div style = "display:grid; grid-template-columns:repeat(3,1fr); gap:50px;">
+<img src = "https://user-images.githubusercontent.com/105339885/232276890-0c92d1fe-9c6d-49f3-a194-a804ee1e7df1.jpg" width="30%"/>
+<img src = "https://user-images.githubusercontent.com/105339885/232276887-6c62b7b1-d533-4e9f-82a2-7aacc983e622.jpg" width="30%"/>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
